@@ -24,7 +24,7 @@ require 'include/front_header.php';
                             <form method="post">
                                 <div class="form-group">
                                     <div class="col-md-12">
-                                        <input type="text" class="form-control" name="inputEmail" id="inputEmail" placeholder="Codecanyon Purchase Code " required >
+                                        <input type="text" class="form-control" name="inputEmail" id="inputEmail" placeholder="email">
                                     </div>
                                 </div>
 
